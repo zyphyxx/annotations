@@ -16,3 +16,9 @@ spring.jpa.database-platform=org.hibernate.dialect.H2Dialect
 spring.jpa.defer-datasource-initialization=true
 spring.jpa.show-sql=true
 spring.jpa.properties.hibernate.format_sql=true
+
+mudando algumas coisas para poder testar 
+
+item 1 
+item 2 
+item 3
