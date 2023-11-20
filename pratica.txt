@@ -1,0 +1,77 @@
+### Java:
+
+1. **Exercício de Programação Orientada a Objetos:**
+   - Crie uma classe `Veiculo` com propriedades como modelo e cor. Em seguida, herde duas classes, por exemplo, `Carro` e `Bicicleta`, e adicione métodos específicos a cada uma.
+
+2. **Manipulação de Threads:**
+   - Implemente um programa que use Threads para realizar tarefas simultâneas, como cálculos em paralelo.
+
+### Banco de Dados:
+
+3. **Consulta SQL:**
+   - Escreva consultas SQL para criar, atualizar e recuperar dados de uma tabela fictícia (por exemplo, tabela de clientes).
+
+4. **Procedimentos Armazenados:**
+   - Crie um procedimento armazenado que realiza uma operação específica no banco de dados.
+
+### Spring Framework:
+
+5. **Aplicação Spring Boot:**
+   - Crie uma aplicação Spring Boot com operações CRUD em uma entidade (por exemplo, Pessoa).
+
+6. **RESTful API:**
+   - Desenvolva uma RESTful API utilizando Spring MVC para gerenciar recursos.
+
+### Desenvolvimento Cloud Native:
+
+7. **Contêineres:**
+   - Dockerize uma aplicação simples e publique-a no Docker Hub.
+
+8. **Kubernetes:**
+   - Configure um cluster Kubernetes local e implante sua aplicação Dockerizada nele.
+
+### Testes Unitários e TDD:
+
+9. **Testes Unitários:**
+   - Escreva testes unitários para uma classe Java que realiza uma operação específica.
+
+10. **Desenvolvimento Orientado a Testes (TDD):**
+   - Aplique TDD para desenvolver uma função ou recurso específico.
+
+### Angular:
+
+11. **Aplicação Angular:**
+    - Crie uma aplicação Angular simples que realiza operações CRUD em algum recurso (por exemplo, lista de tarefas).
+
+12. **Componentes e Diretivas:**
+    - Desenvolva componentes e diretivas Angular para uma funcionalidade específica.
+
+### Shell Script:
+
+13. **Script de Automação:**
+    - Escreva um script de Shell que automatiza uma tarefa repetitiva no seu sistema operacional.
+
+### Message Service:
+
+14. **Sistema de Mensagens:**
+    - Implemente um sistema de mensagens simples usando JMS, Kafka ou Rabbit MQ.
+
+### Banco de Dados Não Relacional:
+
+15. **Operações CRUD em Banco NoSQL:**
+    - Realize operações CRUD (Create, Read, Update, Delete) em um banco de dados NoSQL como MongoDB.
+
+### Jira e CI/CD:
+
+16. **Automação de Build:**
+    - Configure um pipeline de CI/CD usando Jenkins ou GitLab CI para automatizar o build e deploy de uma aplicação.
+
+### Experiência em Nuvem:
+
+17. **Implantação na Nuvem:**
+    - Implante sua aplicação em uma plataforma de nuvem (por exemplo, AWS, Azure, GCP) usando serviços específicos.
+
+### Certificações:
+
+18. **Preparação para Certificação:**
+    - Resolva questões de prática para a certificação Java ou certificação de nuvem que você está almejando.
