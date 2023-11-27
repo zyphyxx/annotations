@@ -1,0 +1,18 @@
+# Configurações do Banco de Dados
+spring.datasource.url=jdbc:postgresql://localhost:5432/seu_banco_de_dados // spring.datasource.url: A URL de conexão com o banco de dados PostgreSQL.
+spring.datasource.username=seu_usuario // spring.datasource.username e spring.datasource.password: Credenciais de acesso ao banco de dados.
+spring.datasource.password=sua_senha
+spring.datasource.driver-class-name=org.postgresql.Driver // spring.datasource.driver-class-name: O driver JDBC para PostgreSQL.
+
+# Configurações do Hibernate (JPA)
+spring.jpa.database=POSTGRESQL
+spring.jpa.show-sql=true // spring.jpa.show-sql: Exibir ou não as consultas SQL geradas pelo Hibernate.
+spring.jpa.hibernate.ddl-auto=update // spring.jpa.hibernate.ddl-auto: Comportamento do Hibernate ao iniciar. update atualizará o esquema do banco de dados se necessário.
+spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.PostgreSQLDialect // spring.jpa.properties.hibernate.dialect: Dialeto do Hibernate para PostgreSQL.
+
+
+
+
+
+
+
